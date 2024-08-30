@@ -1,0 +1,17 @@
+.background {
+    background-color: beige;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px; 
+    padding: 16px; 
+    width: 92%;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+}
